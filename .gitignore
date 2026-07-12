@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+testenv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Generated files
+data/vectors.npz
+data/chunks.json
+
+# OS files
+.DS_Store
+Thumbs.db

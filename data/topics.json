@@ -1,0 +1,16 @@
+{
+    "Claims Processing": [
+        "Claims_Manual.pdf",
+        "Denial_Codes.pdf"
+    ],
+    "Provider Enrollment": [
+        "Enrollment_Guide.pdf",
+        "Fee_Schedule.pdf"
+    ],
+    "Provider Revalidation": [
+        "Revalidation_Guide.pdf"
+    ],
+    "Member Eligibility": [
+        "Eligibility_Rules.pdf"
+    ]
+}
